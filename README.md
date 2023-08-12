@@ -1,4 +1,18 @@
 ### Hi there 👋
+I am a Game Developper and Cyber Security Practitioner!
+
+### 🔭 I’m currently working on [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
+A mobile game where you are a lost miner and must get yourself and your minecart home 
+
+### 👯 I’m looking to collaborate on Games and CTFs!
+Feel free to contact me if you want to collaborate on a game development project or a capture the flags!
+
+### 📫 How to reach me:
+Best way would be by email: simon@simlo.tech
+
+### ⚡ Fun fact
+I have yet to lose a dance off. 
+
 
 <!--
 **Simon-Losier/Simon-Losier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
