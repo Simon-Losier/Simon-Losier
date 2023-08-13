@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Game Developper and Cyber Security Practitioner!
+I am a Game Developer and Cyber Security Practitioner!
 
 ### 🔭 I’m currently working on [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
 A mobile game where you are a lost miner and must get yourself and your minecart home 
