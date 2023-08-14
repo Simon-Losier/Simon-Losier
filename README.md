@@ -5,7 +5,7 @@ I am a Game Developer and Cyber Security Practitioner!
 A mobile game where you are a lost miner and must get yourself and your minecart home 
 
 ### 👯 I’m looking to collaborate on Games and CTFs!
-Feel free to contact me if you want to collaborate on a game development project/Game jams or a capture the flags!
+Feel free to contact me if you want to collaborate on a game development project/Game jams or a capture the flag!
 
 ### 📫 How to reach me:
 Best way would be by email: simon@simlo.tech
