@@ -4,11 +4,17 @@ I am a Game Developer and Cyber Security Practitioner!
 ### 🔭 I’m currently working on [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
 A mobile game where you are a lost miner and must get yourself and your minecart home 
 
+### 🎮 Games I have worked on
+- [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
+- [Swarm: Grimace Shake](https://simlo.itch.io/swarm)
+- [I'm on it](https://simlo.itch.io/im-on-it)
+- [Root Damn](https://globalgamejam.org/2023/games/plantman-6)
+
 ### 👯 I’m looking to collaborate on Games and CTFs!
 Feel free to contact me if you want to collaborate on a game development project/Game jams or a capture the flag!
 
 ### 📫 How to reach me:
-Best way would be by email: simon@simlo.tech
+Best way would be by email: Simon@simlo.tech
 
 ### ⚡ Fun fact
 I have yet to lose a dance off. 
