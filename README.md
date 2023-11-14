@@ -2,6 +2,7 @@
 I am a Game Developer and Cyber Security Practitioner!
 
 ### 🎮 Games I have worked on
+- [Cavern Crush Rush](https://github.com/Simon-Losier/Cavern-Crush-Rush)
 - [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
 - [Swarm: Grimace Shake](https://simlo.itch.io/swarm)
 - [I'm on it](https://simlo.itch.io/im-on-it)
