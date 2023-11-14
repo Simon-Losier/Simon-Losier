@@ -1,9 +1,6 @@
 ### Hi there 👋
 I am a Game Developer and Cyber Security Practitioner!
 
-### 🔭 I’m currently working on [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
-A mobile game where you are a lost miner and must get yourself and your minecart home 
-
 ### 🎮 Games I have worked on
 - [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
 - [Swarm: Grimace Shake](https://simlo.itch.io/swarm)
