@@ -2,7 +2,7 @@
 I am a Game Developer and Cyber Security Practitioner!
 
 ### 🎮 Games I have worked on
-- [Corporate Inteligence](https://github.com/Simon-Losier/Corporate-Inteligence)
+- [Corporate Intelligence](https://github.com/Simon-Losier/Corporate-Inteligence)
 - [Sky Circus](https://simlo.itch.io/sky-circus)
 - [Cavern Crush Rush](https://github.com/Simon-Losier/Cavern-Crush-Rush)
 - [YATSS: Lost Miner](https://github.com/Simon-Losier/YATSS-Lost-Miner)
