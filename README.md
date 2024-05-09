@@ -9,6 +9,7 @@ I am a Game Developer and Cyber Security Practitioner!
 - [Swarm: Grimace Shake](https://simlo.itch.io/swarm)
 - [I'm on it](https://simlo.itch.io/im-on-it)
 - [Root Damn](https://globalgamejam.org/2023/games/plantman-6)
+- [Blocks](https://simou.itch.io/block)
 
 ### 👯 I’m looking to collaborate on Games and CTFs!
 Feel free to contact me if you want to collaborate on a game development project/Game jams or a capture the flag!
