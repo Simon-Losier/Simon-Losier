@@ -11,6 +11,11 @@ I am a Game Developer and Cyber Security Practitioner!
 - [Root Damn](https://globalgamejam.org/2023/games/plantman-6)
 - [Blocks](https://simou.itch.io/block)
 
+### Websites I have worked on
+- [dalgame.dev](https://dalgame.dev)
+- [dalcyber.ca](https://dalcyber.ca)
+- [strongtownshfx.org](https://strongtownshfx.org)
+
 ### 👯 I’m looking to collaborate on Games and CTFs!
 Feel free to contact me if you want to collaborate on a game development project/Game jams or a capture the flag!
 
